@@ -11,6 +11,7 @@
 - T11 Multica 进阶：BUFN 分支合并后试"agent 自调 multica CLI 更新 issue"、评估 Squads/Autopilots（阶段三胶水前置）
 
 ## DONE
+- 2026-07-31 | CAO-27 | Collie 头像定稿:owner 拍板方向 A「哨兵」;design-language.md v0.1 与头像源文件(主稿+深底/浅底/单色/favicon 变体)落盘 design/ | `2877024` | 五版 PNG 已目检,favicon 64px 缩略可辨;效果图见附件(issue CAO-27 评论)
 - 2026-07-31 | CAO-32 | Herdr/Orca/Multica 竞品深度拆解(三份笔记:产品速览+核心机制拆解+值得抄+要避开的坑+两个差异化洞察差距判定),按「改旧不建新」以 issue 评论交付(每份一条评论) | 本仓库自提交(见 git log) | issue CAO-32 评论有三份笔记全文,取证:官方文档/GitHub API/本机 multica CLI 实证,事实均带源链接
 - 2026-07-31 | CAO-31 | 开放问题决策清单(7 条:计划内 6 + 计划外新增 1),逐条给候选选项+权衡+建议倾向,按「改旧不建新」以 issue 评论交付 | 本仓库自提交(见 git log) | issue CAO-31 评论有清单全文
 - 2026-07-31 | CAO-26 | Collie 小队初步团队计划（五阶段草案：构想澄清→竞品调研→架构选型→spike 预研→文档沉淀），按「改旧不建新」以 issue 评论交付，落盘位置待 owner 拍板 | 本仓库自提交（见 git log） | issue CAO-26 评论有计划全文
