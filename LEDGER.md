@@ -1,7 +1,7 @@
 # LEDGER — Collie（方法论与构想库）
 
 ## NOW
-- CAO-30 构想澄清期第一批跟踪:子 issue CAO-31(开放问题决策清单→产品写手)、CAO-32(Herdr/Orca/Multica 竞品拆解→竞品调研员)已并行派发,队长待回收验收
+- CAO-30 构想澄清期第一批跟踪:CAO-31(开放问题决策清单)、CAO-32(Herdr/Orca/Multica 竞品拆解)均已交付,队长待回收验收
 
 ## NEXT
 - T4 Orca 接入主攻项目（ai_financial），练熟"一任务一 worktree + 分支名带任务号"（阶段一）
@@ -11,6 +11,7 @@
 - T11 Multica 进阶：BUFN 分支合并后试"agent 自调 multica CLI 更新 issue"、评估 Squads/Autopilots（阶段三胶水前置）
 
 ## DONE
+- 2026-07-31 | CAO-32 | Herdr/Orca/Multica 竞品深度拆解(三份笔记:产品速览+核心机制拆解+值得抄+要避开的坑+两个差异化洞察差距判定),按「改旧不建新」以 issue 评论交付(每份一条评论) | 本仓库自提交(见 git log) | issue CAO-32 评论有三份笔记全文,取证:官方文档/GitHub API/本机 multica CLI 实证,事实均带源链接
 - 2026-07-31 | CAO-31 | 开放问题决策清单(7 条:计划内 6 + 计划外新增 1),逐条给候选选项+权衡+建议倾向,按「改旧不建新」以 issue 评论交付 | 本仓库自提交(见 git log) | issue CAO-31 评论有清单全文
 - 2026-07-31 | CAO-26 | Collie 小队初步团队计划（五阶段草案：构想澄清→竞品调研→架构选型→spike 预研→文档沉淀），按「改旧不建新」以 issue 评论交付，落盘位置待 owner 拍板 | 本仓库自提交（见 git log） | issue CAO-26 评论有计划全文
 - 2026-07-30 | T5 | Multica Cloud 最小环跑通（BUFN 试点）：建 issue CAO-4 → assign kimi-worker → daemon 隔离 worktree 执行 → 自验 → in_review | BUFN `cf0f762`（分支 agent/kimi-worker/232a4ea5 已推送待合并） | npm run build 通过、issue 评论有冷启动报告
