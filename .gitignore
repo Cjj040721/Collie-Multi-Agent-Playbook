@@ -1,1 +1,6 @@
 .DS_Store
+.agent_context/
+.kimi/
+.multica/
+description.md
+reply.md
