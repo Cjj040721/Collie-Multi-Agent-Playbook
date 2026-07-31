@@ -1,7 +1,7 @@
 # LEDGER — Collie（方法论与构想库）
 
 ## NOW
-- (空)
+- CAO-30 构想澄清期第一批跟踪:子 issue CAO-31(开放问题决策清单→产品写手)、CAO-32(Herdr/Orca/Multica 竞品拆解→竞品调研员)已并行派发,队长待回收验收
 
 ## NEXT
 - T4 Orca 接入主攻项目（ai_financial），练熟"一任务一 worktree + 分支名带任务号"（阶段一）
