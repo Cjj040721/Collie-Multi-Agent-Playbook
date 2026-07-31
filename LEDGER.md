@@ -12,6 +12,7 @@
 - T11 Multica 进阶：BUFN 分支合并后试"agent 自调 multica CLI 更新 issue"、评估 Squads/Autopilots（阶段三胶水前置）
 
 ## DONE
+- 2026-07-31 | owner 指令 | docs/ 目录建立并规范落盘:CAO-31 决策清单→`docs/decisions/`、CAO-32 三份竞品笔记→`docs/research/`,新增 `docs/README.md` 索引;README/AGENTS.md 职责边界与规则 1 同步(owner 拍板:交付物进 git) | 本仓库自提交(见 git log) | 文件清单:docs/README.md、docs/decisions/2026-07-31-开放问题决策清单.md、docs/research/2026-07-31-{herdr,orca,multica}.md
 - 2026-07-31 | CAO-30 | 构想澄清期第一批(阶段一/二并行)验收:CAO-31 决策清单(owner 已「通过审核」)+ CAO-32 三份竞品笔记,证据齐全(收工评论+LEDGER 回写+commit),父 issue 转 in_review 待 owner 复核 | 本仓库自提交(见 git log) | 子 issue 交付全文见 CAO-31/CAO-32 评论;下一步待 owner 拍板决策清单
 - 2026-07-31 | CAO-27 | Collie 头像定稿:owner 拍板方向 A「哨兵」;design-language.md v0.1 与头像源文件(主稿+深底/浅底/单色/favicon 变体)落盘 design/ | `2877024` | 五版 PNG 已目检,favicon 64px 缩略可辨;效果图见附件(issue CAO-27 评论)
 - 2026-07-31 | CAO-32 | Herdr/Orca/Multica 竞品深度拆解(三份笔记:产品速览+核心机制拆解+值得抄+要避开的坑+两个差异化洞察差距判定),按「改旧不建新」以 issue 评论交付(每份一条评论) | 本仓库自提交(见 git log) | issue CAO-32 评论有三份笔记全文,取证:官方文档/GitHub API/本机 multica CLI 实证,事实均带源链接
