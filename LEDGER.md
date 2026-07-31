@@ -11,6 +11,7 @@
 - T11 Multica 进阶：BUFN 分支合并后试"agent 自调 multica CLI 更新 issue"、评估 Squads/Autopilots（阶段三胶水前置）
 
 ## DONE
+- 2026-07-31 | CAO-31 | 开放问题决策清单(7 条:计划内 6 + 计划外新增 1),逐条给候选选项+权衡+建议倾向,按「改旧不建新」以 issue 评论交付 | 本仓库自提交(见 git log) | issue CAO-31 评论有清单全文
 - 2026-07-31 | CAO-26 | Collie 小队初步团队计划（五阶段草案：构想澄清→竞品调研→架构选型→spike 预研→文档沉淀），按「改旧不建新」以 issue 评论交付，落盘位置待 owner 拍板 | 本仓库自提交（见 git log） | issue CAO-26 评论有计划全文
 - 2026-07-30 | T5 | Multica Cloud 最小环跑通（BUFN 试点）：建 issue CAO-4 → assign kimi-worker → daemon 隔离 worktree 执行 → 自验 → in_review | BUFN `cf0f762`（分支 agent/kimi-worker/232a4ea5 已推送待合并） | npm run build 通过、issue 评论有冷启动报告
 - 2026-07-30 | T9 | AGENTS.md 修正：职责边界表指向 LEDGER-规范.md、新增本仓库台账行、已知坑同步现状 | — | 已目检
